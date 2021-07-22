@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1073286801208",
+    "project_id": "the-chat-crew-795be",
+    "storage_bucket": "the-chat-crew-795be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073286801208:android:7f6cd9a78d897452d143cd",
+        "android_client_info": {
+          "package_name": "com.example.the_chat_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073286801208-4ik8u0i2280ai51qdt15m546mse9nalo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.the_chat_crew",
+            "certificate_hash": "f81c243011c6e21ecca9ac60a13973df7f9b9549"
+          }
+        },
+        {
+          "client_id": "1073286801208-dg7eq0s9tg91oit5539pb92kqgrlm8oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdffLeSVW6iav6XAvrm7eZhN42LlrRV68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073286801208-dg7eq0s9tg91oit5539pb92kqgrlm8oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
